@@ -1,0 +1,11 @@
+.user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 300px;
+}
+
+.department_list {
+  width: 500px;
+  margin: 20px auto 200px auto;
+}
